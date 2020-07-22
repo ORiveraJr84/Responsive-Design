@@ -264,3 +264,17 @@ footer > a:hover {
     color: var(--secondary-highlight-color);
     background-color: var(--main-bg-color);
 }
+
+/************************* Media Queries ****************************/
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: lightblue;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+      background-color: lightblue;
+    }
+}
